@@ -94,7 +94,7 @@ const start = async (requests) => {
         }
       }
     }
-    latitude -= 0.2;
+    latitude += 0.2;
     await fs.writeFile("latitude.txt", latitude.toString());
 
     longitude = -180;
