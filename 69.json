@@ -1,0 +1,7026 @@
+[
+  {
+    "access": 1,
+    "address": "Storgata 62, 8430 Myre, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 353062,
+    "latitude": 68.914775,
+    "longitude": 15.101174,
+    "name": "COOP Extra Myre",
+    "stations": [
+      {
+        "id": 841076,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2361554,
+            "kilowatts": 63,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2361555,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3220062,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1380988,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3187306,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3187307,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1592637,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3541009,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1592638,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3541010,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353062"
+  },
+  {
+    "access": 1,
+    "address": "Fv985 2, 8484 Risøyhamn, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 315359,
+    "latitude": 68.974737,
+    "longitude": 15.643136,
+    "name": "Risøyhamn",
+    "stations": [
+      {
+        "id": 874251,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2407537,
+            "kilowatts": 200,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2407538,
+            "kilowatts": 200,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2407539,
+            "kilowatts": 80,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 874253,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2407543,
+            "kilowatts": 62.5,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2407544,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 874254,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2407545,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/315359"
+  },
+  {
+    "access": 1,
+    "address": "Skrolsvikveien 7, 9392 STONGLANDSEIDET",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 572616,
+    "latitude": 69.0839084447367,
+    "longitude": 17.170634128136776,
+    "name": "Joker Stonglandseidet",
+    "stations": [
+      {
+        "id": 1484293,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3375132,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3375133,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3375134,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1484294,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3375135,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3375136,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3375137,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/572616"
+  },
+  {
+    "access": 1,
+    "address": "Dragøyveien 28, 9392 Stonglandseidet, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 326972,
+    "latitude": 69.076136,
+    "longitude": 17.050232,
+    "name": "Senja Fjordhotell",
+    "stations": [
+      {
+        "id": 767557,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2256646,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/326972"
+  },
+  {
+    "access": 1,
+    "address": "Skrolsvikveien 1833, 9392 Stonglandseidet, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 311899,
+    "latitude": 69.066014,
+    "longitude": 16.816007,
+    "name": "Skrolsvik Kystferie",
+    "stations": [
+      {
+        "id": 743375,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2224548,
+            "kilowatts": 5,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 743377,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2224550,
+            "kilowatts": 5,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 767682,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2256810,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/311899"
+  },
+  {
+    "access": 1,
+    "address": "Espenesveien 75, 9311 Brøstadbotn, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 423946,
+    "latitude": 69.09321797143134,
+    "longitude": 17.7029662539673,
+    "name": "Kople YX Brødstadbotn",
+    "stations": [
+      {
+        "id": 1021858,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2642983,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2642985,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3319474,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1021859,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2642986,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1450445,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3319471,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3319472,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1450446,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3319473,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/423946"
+  },
+  {
+    "access": 1,
+    "address": "Mikkelbostadveien 256, 9311 Brøstadbotn, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 131369,
+    "latitude": 68.994124,
+    "longitude": 17.404757,
+    "name": "Dyrøy Holiday",
+    "stations": [
+      {
+        "id": 239163,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 495829,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 239164,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 495830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 239165,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 495831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/131369"
+  },
+  {
+    "access": 1,
+    "address": "Dyrøytunet 2, 9311 Brøstadbotn, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 426950,
+    "latitude": 69.091474,
+    "longitude": 17.689611,
+    "name": "Dyrøy municipality",
+    "stations": [
+      {
+        "id": 1034990,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2660094,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1034993,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2660097,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/426950"
+  },
+  {
+    "access": 1,
+    "address": "Brøstadveien 64, 9311 Brøstadbotn, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 426948,
+    "latitude": 69.087604,
+    "longitude": 17.6986,
+    "name": "Dyrøyhallen",
+    "stations": [
+      {
+        "id": 1034986,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2660090,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/426948"
+  },
+  {
+    "access": 1,
+    "address": "Tverrveien 10, 9311 Brøstadbotn, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 426942,
+    "latitude": 69.091519,
+    "longitude": 17.698035,
+    "name": "Frivillighetssentralen",
+    "stations": [
+      {
+        "id": 1034978,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2660082,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/426942"
+  },
+  {
+    "access": 1,
+    "address": "Tverrveien 1, 9311 Brøstadbotn, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 426939,
+    "latitude": 69.092229,
+    "longitude": 17.694429,
+    "name": "Nordavindshagen",
+    "stations": [
+      {
+        "id": 1034972,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2660075,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1034973,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2660076,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/426939"
+  },
+  {
+    "access": 1,
+    "address": "Fossmoveien 14, 9311 Brøstadbotn, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 426945,
+    "latitude": 69.089908,
+    "longitude": 17.702347,
+    "name": "Brøstadbotn Idrettslag",
+    "stations": [
+      {
+        "id": 1034981,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2660085,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/426945"
+  },
+  {
+    "access": 1,
+    "address": "Øvrevegen 63, 9325 Bardufoss, Norge",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 595092,
+    "latitude": 69.06488163389545,
+    "longitude": 18.510480970144272,
+    "name": "Mer Andselv",
+    "stations": [
+      {
+        "id": 1548566,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3477519,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3477520,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548567,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3477521,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3477522,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548568,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3477523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3477524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548569,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3477525,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548570,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3477526,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548571,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3477527,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595092"
+  },
+  {
+    "access": 1,
+    "address": "Ole Reistads veg, 9325 BARDUFOSS, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 181299,
+    "latitude": 69.055079,
+    "longitude": 18.489173,
+    "name": "Ole Reistads vei",
+    "score": 9,
+    "stations": [
+      {
+        "id": 702623,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125969,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 702624,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125970,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 702625,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125971,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 702626,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125972,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 702627,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125973,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 702628,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125974,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/181299"
+  },
+  {
+    "access": 1,
+    "address": " Bardufoss lufthavn, Bardufoss lufthavn, Målselv, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 41454,
+    "latitude": 69.059579,
+    "longitude": 18.542517,
+    "name": "Bardufoss lufthavn, Målselv",
+    "stations": [
+      {
+        "id": 57133,
+        "network_id": 22,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 104954,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 104955,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 104956,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 104957,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 421888,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 732694,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 421889,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 732695,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 421890,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 732696,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 421891,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 732697,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 421892,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 732698,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 421893,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 732699,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/41454"
+  },
+  {
+    "access": 1,
+    "address": "Bjørnsmoveien 61, 9360 Bardu, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 618506,
+    "latitude": 69.0088179738771,
+    "longitude": 18.476314990112638,
+    "name": "gryllefjord",
+    "stations": [
+      {
+        "id": 1623192,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3599537,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 24,
+            "id": 3599538,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/618506"
+  },
+  {
+    "access": 1,
+    "address": "Käsivarrentie 14207, 99490 Kilpisjärvi, Finland",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 336482,
+    "latitude": 69.01734641841728,
+    "longitude": 20.87517124669649,
+    "name": "K Market Kilpishalli",
+    "score": 10,
+    "stations": [
+      {
+        "id": 793516,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2333434,
+            "kilowatts": 225,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2333435,
+            "kilowatts": 225,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 793517,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2290575,
+            "kilowatts": 24,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2333436,
+            "kilowatts": 24,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2333437,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/336482"
+  },
+  {
+    "access": 1,
+    "address": "Käsivarrentie 14206, 99490 Kilpisjärvi, Finland",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 180884,
+    "latitude": 69.016403,
+    "longitude": 20.870711,
+    "name": "Lapland Hotel Kilpis",
+    "score": 8.3,
+    "stations": [
+      {
+        "id": 447747,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 868732,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 447748,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 868733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/180884"
+  },
+  {
+    "access": 1,
+    "address": "Käsivarrentie 14188, 99490 Enontekiö, Suomi",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456283,
+    "latitude": 69.014519,
+    "longitude": 20.879158,
+    "name": "Tundrea Hotels Kilpisjärvi",
+    "stations": [
+      {
+        "id": 1102650,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2767391,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1102651,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2767392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1102652,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2767393,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1102653,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2767394,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456283"
+  },
+  {
+    "access": 1,
+    "address": "Alttaluodda 18, 9520 KAUTOKEINO, NOR",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 271831,
+    "latitude": 69.013138,
+    "longitude": 23.040633,
+    "name": "Esso Kautokeino [Ishavsveien]",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 599655,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1665529,
+            "kilowatts": 175,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 1666500,
+            "kilowatts": 100,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 599718,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1665641,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 1666499,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 703418,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2126889,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 703419,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2126890,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/271831"
+  },
+  {
+    "access": 1,
+    "address": "Baktevarri 1, 9520 Kautokeino, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 341173,
+    "latitude": 69.020372,
+    "longitude": 23.048635,
+    "name": "Extra Kautokeino",
+    "score": 10,
+    "stations": [
+      {
+        "id": 806513,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342356,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 806515,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342357,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 806516,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342358,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 806517,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342359,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341173"
+  },
+  {
+    "access": 1,
+    "address": "Thon Hotel Kautokeino\nBiedjovaggeluodda 2\n9520 Kautokeino",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 81928,
+    "latitude": 69.016749,
+    "longitude": 23.043188,
+    "name": "Thon Hotel",
+    "score": 9,
+    "stations": [
+      {
+        "id": 120210,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 309559,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 429968,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 755188,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 429969,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 755189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 429970,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 755190,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 429971,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 755191,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 429972,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 755192,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/81928"
+  },
+  {
+    "access": 1,
+    "address": "Lehtolantie 2, 99870 Inari",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 472152,
+    "latitude": 68.90542377552887,
+    "longitude": 27.027570438765622,
+    "name": "Sale Inari",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1207596,
+        "network_id": 1384,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2915708,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1207597,
+        "network_id": 1384,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2915709,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1207598,
+        "network_id": 1384,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2915710,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1207599,
+        "network_id": 1384,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2915711,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472152"
+  },
+  {
+    "access": 1,
+    "address": "Inarintie 47, 99870 Inari, Finland",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 545019,
+    "latitude": 68.90675490305907,
+    "longitude": 27.02532359609035,
+    "name": "Hotel Inari (2)",
+    "stations": [
+      {
+        "id": 1410145,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3248028,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1448173,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315806,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1448174,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315807,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1448175,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315808,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1448176,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315809,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1448177,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315810,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1448178,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315811,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1448179,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315812,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545019"
+  },
+  {
+    "access": 1,
+    "address": "Inarintie 47, 99870 Inari, Finland",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 556219,
+    "latitude": 68.9065869195075,
+    "longitude": 27.025030068647,
+    "name": "Hotel Inari (1)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 143342,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 348061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 408843,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1440686,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3304286,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3304287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/556219"
+  },
+  {
+    "access": 1,
+    "address": "Inarintie 47, 99870 Inari, Finland",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 432255,
+    "latitude": 68.906758,
+    "longitude": 27.025404,
+    "name": "Hotel Inari (3)",
+    "stations": [
+      {
+        "id": 1052154,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2686069,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/432255"
+  },
+  {
+    "access": 1,
+    "address": "ul. Knipovicha, 17, Murmansk, Murmanskaya oblast', Russia, 183039",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 79223,
+    "latitude": 68.95959,
+    "longitude": 33.077646,
+    "name": "Park Inn by Radisson Poliarnie Zori",
+    "score": 9,
+    "stations": [
+      {
+        "id": 342224,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 626784,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 358800,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 798299,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 358801,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 648223,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 493605,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1211538,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2302814,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/79223"
+  },
+  {
+    "access": 1,
+    "address": "Skarsteinveien 268, 8480 Andenes, Norge",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 567119,
+    "latitude": 69.23945606621386,
+    "longitude": 16.111773066222668,
+    "name": "Skarsteinveien 268 (Coming Soon)",
+    "stations": [
+      {
+        "id": 1469937,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3350472,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1469938,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3350473,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1469939,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3350474,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567119"
+  },
+  {
+    "access": 1,
+    "address": "Fiskeværsveien 1, 8481 Bleik, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334695,
+    "latitude": 69.275316,
+    "longitude": 15.965757,
+    "name": "Midnattsol Camping Bleik",
+    "score": 7,
+    "stations": [
+      {
+        "id": 788420,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2284156,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334695"
+  },
+  {
+    "access": 1,
+    "address": "Bleiksveien 46, 8480 ANDENES, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 303228,
+    "latitude": 69.29569,
+    "longitude": 16.03082,
+    "name": "Andøya Space Center",
+    "stations": [
+      {
+        "id": 702282,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125628,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 702283,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2125629,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/303228"
+  },
+  {
+    "access": 1,
+    "address": "Bleiksv 42, 8480 Andenes, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 326586,
+    "latitude": 69.295618,
+    "longitude": 16.031028,
+    "name": "Andøya Space Center",
+    "stations": [
+      {
+        "id": 766292,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2254936,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2256564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/326586"
+  },
+  {
+    "access": 1,
+    "address": "Torsmoveien 418, 9303 Silsand, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 250834,
+    "latitude": 69.231461,
+    "longitude": 17.70456,
+    "name": "Senja Camping As",
+    "score": 9,
+    "stations": [
+      {
+        "id": 549173,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1507392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/250834"
+  },
+  {
+    "access": 1,
+    "address": "UN_SUPPORT Skatvikveien 776, Skatvik, 9376, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 449002,
+    "latitude": 69.159897,
+    "longitude": 17.595014,
+    "name": "EVBox B.V.",
+    "stations": [
+      {
+        "id": 1082916,
+        "network_id": 1264,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2741382,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/449002"
+  },
+  {
+    "access": 1,
+    "address": "62J3+F7 Finnsnes, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 483459,
+    "latitude": 69.2311782836914,
+    "longitude": 18.00390625,
+    "name": "Olderhamna",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1240779,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2967956,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2974863,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1245841,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2974871,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2974872,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/483459"
+  },
+  {
+    "access": 1,
+    "address": "Helsesenterveien",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 181252,
+    "latitude": 69.23451,
+    "longitude": 18.008161,
+    "name": "Finnsnes Omsorgssenter / DMS",
+    "stations": [
+      {
+        "id": 374227,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 668185,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 374228,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 668186,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/181252"
+  },
+  {
+    "access": 1,
+    "address": "Rådhusveien 6, 9306 FINNSNES, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 160985,
+    "latitude": 69.230939,
+    "longitude": 17.987631,
+    "name": "Lenvik rådhus",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 692004,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2114237,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692005,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2114238,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692006,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2114239,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692007,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2114240,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/160985"
+  },
+  {
+    "access": 1,
+    "address": "Sjøgata 22, 9300 Finnsnes, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 460503,
+    "latitude": 69.228531,
+    "longitude": 17.992755,
+    "name": "Finnsnestunet Sjøgata 20/22",
+    "stations": [
+      {
+        "id": 1145595,
+        "network_id": 1323,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2813391,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1145596,
+        "network_id": 1323,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2813392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/460503"
+  },
+  {
+    "access": 1,
+    "address": "Vikaveien 1, 9310 SØRREISA, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 160986,
+    "latitude": 69.145538,
+    "longitude": 18.151497,
+    "name": "Sørreisa kommune Torg Charge365",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 688184,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2109616,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 688185,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2109617,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/160986"
+  },
+  {
+    "access": 1,
+    "address": "Ringveien 42, 9300 Finnsnes, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 423924,
+    "latitude": 69.227145,
+    "longitude": 17.977555,
+    "name": "Ringveien Parkering",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1021806,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2642907,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1021807,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2642908,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/423924"
+  },
+  {
+    "access": 1,
+    "address": "Storgata 7, 9300 Finnsnes, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 485338,
+    "latitude": 69.22900190153183,
+    "longitude": 17.97870688140392,
+    "name": "Amfi Finnsnes",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1245836,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2974861,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1245837,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2974862,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/485338"
+  },
+  {
+    "access": 1,
+    "address": "Karlstadveien 10, 9321 Moen, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 122900,
+    "latitude": 69.133465,
+    "longitude": 18.579991,
+    "name": "Circle K Buktamo",
+    "score": 10,
+    "stations": [
+      {
+        "id": 998863,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2602976,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2602977,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 998864,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2602979,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2950402,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/122900"
+  },
+  {
+    "access": 1,
+    "address": "Fv854 80, 9321 Olsborg, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 590109,
+    "latitude": 69.14279694126974,
+    "longitude": 18.598490607147994,
+    "name": "Kople Olsborg",
+    "stations": [
+      {
+        "id": 1534445,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3454705,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1534446,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3454706,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1534447,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3454707,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1534448,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3454708,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1534449,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3454709,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1534450,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3454710,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590109"
+  },
+  {
+    "access": 1,
+    "address": "Strandveien 414, 9050 Storsteinnes, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 479963,
+    "latitude": 69.23974845706259,
+    "longitude": 19.235056071842997,
+    "name": "Recharge Spar Storsteinnes",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1229990,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2949062,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1230292,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2949476,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1230293,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2949477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1230294,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2949478,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1230295,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2949479,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1230296,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2949480,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479963"
+  },
+  {
+    "access": 1,
+    "address": "Sørkjosveien 416, 9050 Storsteinnes",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 606139,
+    "latitude": 69.21699351171907,
+    "longitude": 19.30308379234681,
+    "name": "Tømmerelv",
+    "stations": [
+      {
+        "id": 1586814,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3532657,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3532658,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586815,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3532659,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586816,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3532660,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586817,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3532661,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586818,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3532662,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606139"
+  },
+  {
+    "access": 1,
+    "address": "Torgveien 4, 9040 Nordkjosbotn",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 251305,
+    "latitude": 69.218777,
+    "longitude": 19.561555,
+    "name": "Vollan Gjestestue AS",
+    "score": 10,
+    "stations": [
+      {
+        "id": 246105,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 505426,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 505427,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 300791,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 573297,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 573298,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/251305"
+  },
+  {
+    "access": 1,
+    "address": "Sentrumsveien 14, 9040 NORDKJOSBOTN, NOR",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 100360,
+    "latitude": 69.217457,
+    "longitude": 19.556496,
+    "name": "Circle K Nordkjosbotn",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 167184,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 386682,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 386683,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 172004,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 393986,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 393987,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1253034,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2986991,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2986992,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2986993,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1253035,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2986994,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2986995,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2986996,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/100360"
+  },
+  {
+    "access": 1,
+    "address": "Sentrumsveien 2, 9040 Nordkjosbotn, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542752,
+    "latitude": 69.21564215839189,
+    "longitude": 19.5544137692645,
+    "name": "Shell Nordkjosbotn RECHARGE",
+    "stations": [
+      {
+        "id": 1404252,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234200,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3234201,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3234202,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404253,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234203,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404254,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234204,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404255,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234205,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404256,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234206,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404257,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234207,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404258,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234208,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404259,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234209,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404260,
+        "network_id": 1026,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3234210,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542752"
+  },
+  {
+    "access": 1,
+    "address": "Torgveien, 9040 Nordkjosbotn, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 569672,
+    "latitude": 69.21816722006619,
+    "longitude": 19.56099887271533,
+    "name": "Vollan Gjestestue",
+    "stations": [
+      {
+        "id": 1476032,
+        "network_id": 51,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3360263,
+            "kilowatts": 350,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1476033,
+        "network_id": 51,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3360264,
+            "kilowatts": 350,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1476034,
+        "network_id": 51,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3360265,
+            "kilowatts": 350,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1476035,
+        "network_id": 51,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3360266,
+            "kilowatts": 350,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1561823,
+        "network_id": 51,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3497619,
+            "kilowatts": 200,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3497620,
+            "kilowatts": 200,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/569672"
+  },
+  {
+    "access": 1,
+    "address": "Nordlysveien 404, 9046 Oteren, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 331658,
+    "latitude": 69.257588,
+    "longitude": 19.884355,
+    "name": "Welcome Inn Hotel Lyngskroa",
+    "stations": [
+      {
+        "id": 780491,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2273802,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331658"
+  },
+  {
+    "access": 1,
+    "address": "улица Морская, дом 1, Teriberka, Murmansk Oblast, Russia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 344408,
+    "latitude": 69.165727,
+    "longitude": 35.134383,
+    "name": "Кемпинг \"Териберка Тур\"",
+    "stations": [
+      {
+        "id": 815192,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2319078,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/344408"
+  },
+  {
+    "access": 1,
+    "address": "Falcksgate 9, 8480 Andenes, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 457808,
+    "latitude": 69.32068047170675,
+    "longitude": 16.119292974472046,
+    "name": "Andøy Taxi  EVINY",
+    "stations": [
+      {
+        "id": 1107261,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2773503,
+            "kilowatts": 140,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2773504,
+            "kilowatts": 140,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2773505,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1107262,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2773506,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1107263,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2773507,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1107264,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2773508,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/457808"
+  },
+  {
+    "access": 1,
+    "address": "Storgata 58, Andenes ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 347895,
+    "latitude": 69.31632,
+    "longitude": 16.120762,
+    "name": "Thon Hotel Andrikken",
+    "stations": [
+      {
+        "id": 826277,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2333612,
+            "kilowatts": 4.3,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/347895"
+  },
+  {
+    "access": 1,
+    "address": "Industriveien 4A, 8480 Andenes",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 347979,
+    "latitude": 69.310039,
+    "longitude": 16.098124,
+    "name": "Extra Andenes",
+    "stations": [
+      {
+        "id": 826481,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2333859,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2971040,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/347979"
+  },
+  {
+    "access": 1,
+    "address": "Hamnegata 13, 8480 Andenes, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 303372,
+    "latitude": 69.309824,
+    "longitude": 16.10049,
+    "name": "Rema 1000 Andenes",
+    "score": 10,
+    "stations": [
+      {
+        "id": 704019,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2127621,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2127622,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2127623,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 768780,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2258362,
+            "kilowatts": 100,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2258363,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 768781,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2258364,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2258365,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/303372"
+  },
+  {
+    "access": 1,
+    "address": "Fv86 427, 9380 Gryllefjord, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 596114,
+    "latitude": 69.36330105650198,
+    "longitude": 17.05298837275901,
+    "name": "ishavskraft (Kople) 70-120kW",
+    "stations": [
+      {
+        "id": 1551789,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3483102,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3506551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1568060,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3506547,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3506548,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1568061,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3506549,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3506550,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596114"
+  },
+  {
+    "access": 1,
+    "address": "Ferånna 45, 9381 Torsken, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 325595,
+    "latitude": 69.34082633276579,
+    "longitude": 17.116189271163922,
+    "name": "Senja Fjordcamp / Senja By Heart",
+    "score": 9,
+    "stations": [
+      {
+        "id": 764627,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391491,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 764628,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391492,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/325595"
+  },
+  {
+    "access": 1,
+    "address": "Hamnveien 1125-1131, 9385 SKALAND, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 251078,
+    "latitude": 69.417124,
+    "longitude": 17.167675,
+    "name": "Hamn",
+    "score": 7.8,
+    "stations": [
+      {
+        "id": 549805,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1510045,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 696813,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2119871,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 696814,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2119872,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 696815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2119873,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 696816,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2119874,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/251078"
+  },
+  {
+    "access": 1,
+    "address": "Stønesbotnveien 401, 9373 Botnhamn, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 329602,
+    "latitude": 69.449504,
+    "longitude": 17.882768,
+    "name": "Fjordbotn camping",
+    "stations": [
+      {
+        "id": 774885,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2266361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/329602"
+  },
+  {
+    "access": 1,
+    "address": "Fv293, 9042 Laksvatn, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 135636,
+    "latitude": 69.376216,
+    "longitude": 19.362315,
+    "name": "Mer Laksvatn",
+    "score": 10,
+    "stations": [
+      {
+        "id": 695433,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2118332,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 695434,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2118333,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 695435,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2118334,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 695436,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2118335,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 695437,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2118336,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 695438,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2118337,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/135636"
+  },
+  {
+    "access": 1,
+    "address": "Lyngen Tourist",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372294,
+    "latitude": 69.321417,
+    "longitude": 20.011223,
+    "name": "LyngenTourist AS",
+    "stations": [
+      {
+        "id": 895042,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2435111,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 895044,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2435113,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 895045,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2435114,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 895046,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2435115,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372294"
+  },
+  {
+    "access": 1,
+    "address": "23 Johan Beck-veien, Skibotn, Norway, 9143",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 121725,
+    "latitude": 69.39240457394318,
+    "longitude": 20.268396177909842,
+    "name": "Nordkalottsenteret",
+    "score": 10,
+    "stations": [
+      {
+        "id": 214729,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 457002,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2337892,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 214730,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 457003,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2337893,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 214731,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 457004,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2337894,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 214732,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 457005,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2337895,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 214733,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 457006,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2337896,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 214734,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 457007,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2337897,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/121725"
+  },
+  {
+    "access": 1,
+    "address": "Jordmorvegen 29, 9147 Birtavarre, Norge",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 215634,
+    "latitude": 69.499469,
+    "longitude": 20.82323,
+    "name": "Kåfjord Helsetun [Mer]",
+    "score": 9,
+    "stations": [
+      {
+        "id": 464871,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1015062,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1015063,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1015064,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/215634"
+  },
+  {
+    "access": 1,
+    "address": "Máze, Kautokeino kommune, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 271918,
+    "latitude": 69.443629,
+    "longitude": 23.667051,
+    "name": "Máze [Ishavsveien]",
+    "score": 10,
+    "stations": [
+      {
+        "id": 599884,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1666149,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 1773048,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 599885,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1666150,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 1773049,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 599888,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1666153,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1773050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/271918"
+  },
+  {
+    "access": 1,
+    "address": "Raddeviessogeaidnu 7, 9730 Karasjok, Norge",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 272083,
+    "latitude": 69.4726,
+    "longitude": 25.51816,
+    "name": "Karasjok [Ishavsveien]",
+    "score": 7.8,
+    "stations": [
+      {
+        "id": 600316,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1667140,
+            "kilowatts": 175,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 1788636,
+            "kilowatts": 100,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 600317,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1667141,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 1788637,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 600320,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1667144,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 600321,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1667145,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/272083"
+  },
+  {
+    "access": 1,
+    "address": "Leavnnjageaidnu 49, 9730 Karasjok, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 90540,
+    "latitude": 69.473849,
+    "longitude": 25.510021,
+    "name": "Scandic Karasjok",
+    "score": 9,
+    "stations": [
+      {
+        "id": 143389,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 348141,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/90540"
+  },
+  {
+    "access": 1,
+    "address": "Suomageaidnu 1, 9730 Karasjok, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 344376,
+    "latitude": 69.47192928149171,
+    "longitude": 25.50936172883605,
+    "name": "Circle K Karasjok",
+    "score": 9,
+    "stations": [
+      {
+        "id": 815093,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342352,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 815094,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342353,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 815095,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342354,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 815096,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2342355,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/344376"
+  },
+  {
+    "access": 1,
+    "address": "Mari Boine Geaidnu 22, 9730 Karasjok, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 284839,
+    "latitude": 69.475429,
+    "longitude": 25.515625,
+    "name": "NRK Karasjok",
+    "stations": [
+      {
+        "id": 620571,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1773667,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 620572,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1773668,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/284839"
+  },
+  {
+    "access": 1,
+    "address": "Ylätenontie 24, 99950 Karigasniemi",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 326766,
+    "latitude": 69.398721,
+    "longitude": 25.852923,
+    "name": "Kauppakeskus Härkönen",
+    "score": 9,
+    "stations": [
+      {
+        "id": 766859,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2255657,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/326766"
+  },
+  {
+    "access": 1,
+    "address": "Rovisuvannontie 59, 99950 Utsjoki",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 329109,
+    "latitude": 69.467434,
+    "longitude": 25.838984,
+    "name": "Tenon Eräkievari",
+    "stations": [
+      {
+        "id": 773304,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2264242,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/329109"
+  },
+  {
+    "access": 1,
+    "address": "Ulitsa Mira, 9, Zapolyarny, Murmanskaya oblast', Russia, 184430",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 204952,
+    "latitude": 69.426574,
+    "longitude": 30.818902,
+    "name": "Hotel \"Pechenga\"",
+    "stations": [
+      {
+        "id": 436144,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 787719,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 787720,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 787721,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436145,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787722,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436148,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 787725,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436149,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 787726,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436150,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 787727,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436151,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 787728,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436152,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 787729,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436155,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 787732,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436156,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436157,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787734,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436158,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787735,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436159,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787736,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436160,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787737,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436161,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787738,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 436162,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 787739,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/204952"
+  },
+  {
+    "access": 1,
+    "address": "Gnr 112 Bnr 5, 9389 Husøy i Senja, Norwegen",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 336345,
+    "latitude": 69.544152,
+    "longitude": 17.664158,
+    "name": "Joker Husøy",
+    "score": 7,
+    "stations": [
+      {
+        "id": 793173,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2290122,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2290123,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/336345"
+  },
+  {
+    "access": 1,
+    "address": "Fv252 13, 9386 Senjahopen, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 329548,
+    "latitude": 69.519163,
+    "longitude": 17.440168,
+    "name": "Mefjord Brygge",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 774728,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2266142,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 774729,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2266143,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/329548"
+  },
+  {
+    "access": 1,
+    "address": "Fv252 5, 9386 Senjahopen, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 338593,
+    "latitude": 69.517897,
+    "longitude": 17.43997,
+    "name": "Mefjordvaer Wooden Promenade",
+    "score": 9,
+    "stations": [
+      {
+        "id": 798911,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2297719,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2297720,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/338593"
+  },
+  {
+    "access": 1,
+    "address": "Hamnevegen 9",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 608251,
+    "latitude": 69.63542265285386,
+    "longitude": 18.00343021013699,
+    "name": "SuperCharge Havfrua Kro",
+    "stations": [
+      {
+        "id": 1594934,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3544060,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1594935,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3544061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1594936,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3544062,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1594937,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3544063,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1594938,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3544064,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608251"
+  },
+  {
+    "access": 1,
+    "address": "Hillesøyvegen 201, 9110 Sommarøy, Norwegen",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 201271,
+    "latitude": 69.636233,
+    "longitude": 18.005139,
+    "name": "Sommarøy Camping & Marina",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 427350,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2277327,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/201271"
+  },
+  {
+    "access": 1,
+    "address": "Skipsholmvegen 22, 9110 SOMMARØY, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 121540,
+    "latitude": 69.635881,
+    "longitude": 17.99302,
+    "name": "Sommarøy Arctic Hotel Tromsø",
+    "stations": [
+      {
+        "id": 697056,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2120128,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 697057,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2120129,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/121540"
+  },
+  {
+    "access": 1,
+    "address": "6 Manetveien, Best stasjon Kvaløysletta, Tromsø, Norway",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 40795,
+    "latitude": 69.690705,
+    "longitude": 18.862659,
+    "name": "Best Kvaløysletta",
+    "stations": [
+      {
+        "id": 617270,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 1758262,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 875422,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2409216,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/40795"
+  },
+  {
+    "access": 1,
+    "address": "62 Skattørvegen, Traasdahl Hurtigladestasjon, Tromsø, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 41707,
+    "latitude": 69.699424,
+    "longitude": 19.015328,
+    "name": "Traasdahl Nissan",
+    "stations": [
+      {
+        "id": 57393,
+        "network_id": 22,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 105763,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/41707"
+  },
+  {
+    "access": 1,
+    "address": "Solstrandvegen 47, 9020 Tromsdalen, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 324713,
+    "latitude": 69.63984,
+    "longitude": 18.969845,
+    "name": "AMFI Pyramiden",
+    "score": 10,
+    "stations": [
+      {
+        "id": 760328,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2247069,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2247070,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 760343,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2247092,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2247093,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 760344,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2247094,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2247095,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 760345,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2247096,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2247097,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/324713"
+  },
+  {
+    "access": 1,
+    "address": "Evjenvegen 59, 9024 Tomasjord, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 600170,
+    "latitude": 69.65730548577439,
+    "longitude": 19.01405619614124,
+    "name": "Ishavskraft",
+    "stations": [
+      {
+        "id": 1565914,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3503307,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3503308,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1565915,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3503309,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3503310,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/600170"
+  },
+  {
+    "access": 1,
+    "address": "Ringvegen 4, 9018 Tromsø, Norway",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585451,
+    "latitude": 69.69104481917572,
+    "longitude": 19.009037909413223,
+    "name": "Bil i Nord",
+    "stations": [
+      {
+        "id": 1522329,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3435477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3435478,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585451"
+  },
+  {
+    "access": 1,
+    "address": "Arthur Arntzens Veg 10, 9020 Tromsdalen, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 526562,
+    "latitude": 69.64774766539462,
+    "longitude": 19.013859719584065,
+    "name": "Tromso Lodge & Camping",
+    "stations": [
+      {
+        "id": 1408498,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243791,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408499,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243792,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408500,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243793,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408501,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243794,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408502,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243795,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408503,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243796,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408504,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243797,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408505,
+        "network_id": 1095,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243798,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/526562"
+  },
+  {
+    "access": 1,
+    "address": "Sollivegen 12, 9020 Tromsdalen, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 179982,
+    "latitude": 69.641177,
+    "longitude": 18.986136,
+    "name": "Fjellheisen",
+    "score": 10,
+    "stations": [
+      {
+        "id": 370946,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 663908,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 370947,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 663909,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/179982"
+  },
+  {
+    "access": 1,
+    "address": "Knausen 70b, 9018 Tromøs",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 181253,
+    "latitude": 69.69167,
+    "longitude": 18.996299,
+    "name": "Knausen Borettslag Tromsø",
+    "stations": [
+      {
+        "id": 374230,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 668188,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 374231,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 668189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 374232,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 668190,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 374233,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 668191,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 374234,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 668192,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/181253"
+  },
+  {
+    "access": 1,
+    "address": "Flyplassvegen 16, 9016 Tromsø",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 100235,
+    "latitude": 69.678568,
+    "longitude": 18.905561,
+    "name": "Fortum Avinor Tromsø Lufthavn",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 166895,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 386211,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 386212,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 386213,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 166896,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 386214,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 386215,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 386216,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/100235"
+  },
+  {
+    "access": 1,
+    "address": "Karlsøyvegen 12, 9015 TROMSØ, NOR",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 183919,
+    "latitude": 69.673669,
+    "longitude": 18.923445,
+    "name": "Mer - Obs Jekta Storsenter",
+    "score": 8,
+    "stations": [
+      {
+        "id": 634767,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1945279,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1945280,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236373,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2960997,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2960998,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236389,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961016,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236391,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961027,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236392,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961028,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236393,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961029,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236394,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961030,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236395,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961031,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236396,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961032,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236397,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961033,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236398,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961034,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236399,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961035,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236400,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961036,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236401,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961037,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236402,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961038,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236403,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961039,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236404,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961040,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236405,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2961041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236406,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2961042,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2961043,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236407,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2961044,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2961045,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236408,
+        "network_id": 1118,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2961046,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2961047,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/183919"
+  },
+  {
+    "access": 1,
+    "address": "Dramsvegen 190, 9010 Tromsø, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 208591,
+    "latitude": 69.674794,
+    "longitude": 18.956516,
+    "name": "Tromsøbadet",
+    "stations": [
+      {
+        "id": 446311,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 855919,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 855920,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 446312,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 855922,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 855923,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 446313,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 855925,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 855926,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 446314,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 855928,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 855929,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/208591"
+  },
+  {
+    "access": 1,
+    "address": "Mellomveien 36D, 9007 Tromsø, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 187328,
+    "latitude": 69.645109,
+    "longitude": 18.944543,
+    "name": "Fylkesbygget",
+    "stations": [
+      {
+        "id": 390592,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 689648,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 390597,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 689654,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 390598,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 689655,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 395650,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 696072,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 395651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 696073,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 395652,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 696074,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/187328"
+  },
+  {
+    "access": 1,
+    "address": "Stakkevollvegen 55, 9010 TROMSØ, NOR",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 172465,
+    "latitude": 69.67028,
+    "longitude": 18.973801,
+    "name": "Trofi Teknopark",
+    "stations": [
+      {
+        "id": 1024036,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2645615,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2645616,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2645617,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/172465"
+  },
+  {
+    "access": 1,
+    "address": "P Plass Nord",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 350060,
+    "latitude": 69.694766,
+    "longitude": 19.004922,
+    "name": "Utsikten Borettslag",
+    "stations": [
+      {
+        "id": 832611,
+        "network_id": 84,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2350855,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 832612,
+        "network_id": 84,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2350856,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 832613,
+        "network_id": 84,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2350857,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 832614,
+        "network_id": 84,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2350858,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "thumbnail_url": "https://assets.plugshare.com/network-images/chargeup_thumb.png",
+    "url": "http://api.plugshare.com/view/location/350060"
+  },
+  {
+    "access": 1,
+    "address": "Terminalgata 10, 9019 Tromsø, Norge",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 522715,
+    "latitude": 69.67666484981409,
+    "longitude": 18.979494385421276,
+    "name": "Circle K Breivika",
+    "stations": [
+      {
+        "id": 1347488,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136024,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347489,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136025,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347490,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136026,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347491,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136027,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347492,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136028,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347493,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136029,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347494,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136030,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347495,
+        "network_id": 1102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136031,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/522715"
+  },
+  {
+    "access": 1,
+    "address": "Sykehusvegen 38, 9019 Tromsø",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 243036,
+    "latitude": 69.683567,
+    "longitude": 18.98556,
+    "name": "Mer - UNN Breivika",
+    "score": 5.4,
+    "stations": [
+      {
+        "id": 526742,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1383583,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 526743,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1383584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 526744,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1383585,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/243036"
+  },
+  {
+    "access": 1,
+    "address": "Alkevegen 9A, 9015 Tromsø, Norge",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 310734,
+    "latitude": 69.677294,
+    "longitude": 18.929624,
+    "name": "Elektroimportøren Tromsø",
+    "stations": [
+      {
+        "id": 723163,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2169609,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 723164,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2169610,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/310734"
+  },
+  {
+    "access": 1,
+    "address": "Skattørvegen 19C, 9018 TROMSØ, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 170494,
+    "latitude": 69.69264,
+    "longitude": 19.015904,
+    "name": "Tromsø taxi",
+    "stations": [
+      {
+        "id": 690630,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2112521,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 690631,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2112522,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 690632,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2112523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 690633,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2112524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 690634,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2112525,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/170494"
+  },
+  {
+    "access": 1,
+    "address": "Stakkevollvegen 9, 9010 Tromsø, 9010, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 254406,
+    "latitude": 69.660371,
+    "longitude": 18.968113,
+    "name": "Stakkevollvegen",
+    "stations": [
+      {
+        "id": 648124,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2057392,
+            "kilowatts": null,
+            "power": 0,
+            "status": "CHARGING"
+          },
+          {
+            "connector": 7,
+            "id": 2057393,
+            "kilowatts": null,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 888459,
+        "network_id": 1117,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2426650,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "OUTOFORDER"
+          }
+        ]
+      },
+      {
+        "id": 888460,
+        "network_id": 1117,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2426651,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "OUTOFORDER"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/254406"
+  },
+  {
+    "access": 1,
+    "address": "Fjellet P-hus, 9008 TROMSØ, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 302554,
+    "latitude": 69.64913,
+    "longitude": 18.95318,
+    "name": "Fjellet P-hus, Tromsø",
+    "stations": [
+      {
+        "id": 694578,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2117359,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 694579,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2117360,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 694580,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2117361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 694581,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2117362,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/302554"
+  },
+  {
+    "access": 1,
+    "address": "Skanckesmuget",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 177206,
+    "latitude": 69.652618,
+    "longitude": 18.95472,
+    "name": "Fjellet P-hus ladestasjon",
+    "score": 7.6,
+    "stations": [
+      {
+        "id": 363998,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 654739,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 363999,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 654740,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 364000,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 654741,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 364001,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 654742,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/177206"
+  },
+  {
+    "access": 1,
+    "address": "Åslivegen, Tromsø, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591943,
+    "latitude": 69.67029131438856,
+    "longitude": 18.92217792570591,
+    "name": "Moxy Hotel",
+    "stations": [
+      {
+        "id": 1539801,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3463769,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539802,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3463770,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591943"
+  },
+  {
+    "access": 1,
+    "address": "Hjalmar Johansens gate 14, 9007 TROMSØ, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 224143,
+    "latitude": 69.644057,
+    "longitude": 18.947928,
+    "name": "Polaria/Framsenteret",
+    "score": 6.2,
+    "stations": [
+      {
+        "id": 690928,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2112898,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 690929,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2112899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/224143"
+  },
+  {
+    "access": 1,
+    "address": "Richard Withs plass 2, 9008 Tromsø, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 345911,
+    "latitude": 69.648129,
+    "longitude": 18.957598,
+    "name": "Quality Hotel Saga",
+    "stations": [
+      {
+        "id": 821266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2326400,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 869509,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2401278,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/345911"
+  },
+  {
+    "access": 1,
+    "address": "Sjøgata 21, 9008 Tromsø, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 324343,
+    "latitude": 69.650105,
+    "longitude": 18.959465,
+    "name": "Clarion Collection Hotel Aurora",
+    "score": 9,
+    "stations": [
+      {
+        "id": 759200,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2245512,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 759201,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2245513,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 759202,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2245514,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 759203,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2245515,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/324343"
+  },
+  {
+    "access": 1,
+    "address": " Seminaret, Seminaret P-hus, Tromsø, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 41054,
+    "latitude": 69.65556,
+    "longitude": 18.96476,
+    "name": "Seminaret P-hus, Tromsø",
+    "score": 9,
+    "stations": [
+      {
+        "id": 740447,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2220592,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 740448,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2220593,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/41054"
+  },
+  {
+    "access": 1,
+    "address": "Stakkevollvegen 51, Tromsø, 9010, NOR",
+    "icon": "https://assets.plugshare.com/icons/A.png",
+    "icon_type": "A",
+    "id": 243791,
+    "latitude": 69.668979,
+    "longitude": 18.972825,
+    "name": "Stakkevollvegen",
+    "stations": [
+      {
+        "id": 647620,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2056212,
+            "kilowatts": null,
+            "power": 0,
+            "status": "CHARGING"
+          },
+          {
+            "connector": 7,
+            "id": 2056213,
+            "kilowatts": null,
+            "power": 0,
+            "status": "CHARGING"
+          }
+        ]
+      },
+      {
+        "id": 888461,
+        "network_id": 1117,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2426652,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "CHARGING"
+          }
+        ]
+      },
+      {
+        "id": 888462,
+        "network_id": 1117,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2426653,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "CHARGING"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/243791"
+  },
+  {
+    "access": 1,
+    "address": "Flyplassvegen 31, 9016 TROMSØ, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 100260,
+    "latitude": 69.67922,
+    "longitude": 18.905085,
+    "name": "Tromsø Lufthavn",
+    "stations": [
+      {
+        "id": 692851,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115167,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692852,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115168,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692853,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115169,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692854,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115170,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692855,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115171,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692856,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115172,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692857,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115173,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692858,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115174,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692859,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115175,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692860,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115176,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692861,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115177,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692862,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115178,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692863,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115179,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692864,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115180,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692865,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115181,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692866,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115182,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692867,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115183,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692868,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115184,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 692869,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2115185,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/100260"
+  },
+  {
+    "access": 1,
+    "address": "Fredrik Langesgate 2 Tromsø ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593380,
+    "latitude": 69.64915347682035,
+    "longitude": 18.96256320178917,
+    "name": "Scandic Ishavshotel",
+    "stations": [
+      {
+        "id": 1543667,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3470092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1543668,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3470093,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1543669,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3470094,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593380"
+  },
+  {
+    "access": 1,
+    "address": "Flyplassvegen 31, 9016 Tromsø",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 100261,
+    "latitude": 69.679654,
+    "longitude": 18.905304,
+    "name": "Tromsø Lufthavn P3",
+    "stations": [
+      {
+        "id": 166973,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 386320,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 166974,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 386321,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/100261"
+  },
+  {
+    "access": 1,
+    "address": "Seminaret, 9008 TROMSØ, NOR",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 302407,
+    "latitude": 69.65512,
+    "longitude": 18.96711,
+    "name": "Seminaret P-hus, Tromsø",
+    "stations": [
+      {
+        "id": 693545,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2116037,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 693546,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2116038,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/302407"
+  },
+  {
+    "access": 1,
+    "address": "Parkveien 21, 9060 Lyngseidet, Norwegen",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 457568,
+    "latitude": 69.574685,
+    "longitude": 20.205345,
+    "name": "Parkveien Parkering",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1106502,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2772408,
+            "kilowatts": 200,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2772409,
+            "kilowatts": 200,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2772410,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1106503,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2772411,
+            "kilowatts": 200,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2772412,
+            "kilowatts": 200,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2772413,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1106504,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2772414,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1106505,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2772415,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1106685,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2772675,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1106686,
+        "network_id": 1009,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2772676,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/457568"
+  },
+  {
+    "access": 1,
+    "address": "Kjosveien 14, 9060 Lyngseidet, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 162755,
+    "latitude": 69.576294,
+    "longitude": 20.214738,
+    "name": "Lyngseidet Gjestegård",
+    "stations": [
+      {
+        "id": 325181,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 605726,
+            "kilowatts": 6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/162755"
+  },
+  {
+    "access": 1,
+    "address": "Årøybuktneset 44, 9060 Lyngseidet, Norway",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 108969,
+    "latitude": 69.637872,
+    "longitude": 20.345284,
+    "name": "Aurora Spirits",
+    "stations": [
+      {
+        "id": 182906,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 408208,
+            "kilowatts": 4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/108969"
+  },
+  {
+    "access": 1,
+    "address": "Løkvollvegen 5, 9144 Samuelsberg, Norwegen",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 272148,
+    "latitude": 69.541698,
+    "longitude": 20.550729,
+    "name": "Best Samuelsberg [Ishavsveien]",
+    "score": 10,
+    "stations": [
+      {
+        "id": 600472,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1667497,
+            "kilowatts": 100,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1667498,
+            "kilowatts": 175,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 600473,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1667499,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1667500,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 600474,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1667501,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1667502,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/272148"
+  },
+  {
+    "access": 1,
+    "address": "Tunnelveien 2, 9912 Hesseng, Norge",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 286186,
+    "latitude": 69.687245,
+    "longitude": 29.988733,
+    "name": "Esso Hesseng",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 624650,
+        "network_id": 1295,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1817052,
+            "kilowatts": 100,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1817053,
+            "kilowatts": 175,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 624651,
+        "network_id": 1295,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1817054,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1817055,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 624652,
+        "network_id": 1295,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1817056,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1817057,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/286186"
+  },
+  {
+    "access": 1,
+    "address": "G5M8+5P Pechenga, Murmansk Oblast, Russia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 478619,
+    "latitude": 69.53238475198458,
+    "longitude": 31.16744672548592,
+    "name": "АЗС Атлас",
+    "stations": [
+      {
+        "id": 1225960,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2943472,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2943473,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2943474,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225961,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943475,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478619"
+  }
+]
