@@ -79,7 +79,7 @@ const start = async (requests) => {
     return; // exit if there is an error reading the latitude file
   }
 
-  for (let j = 0; j < 94; j++) {
+  for (let j = 0; j < 50; j++) {
     for (let i = 0; i < requests; i++) {
       try {
         await run();
@@ -94,7 +94,7 @@ const start = async (requests) => {
         }
       }
     }
-    latitude -= 0.2;
+    latitude += 0.2;
     await fs.writeFile("latitude.txt", latitude.toString());
 
     longitude = -180;
